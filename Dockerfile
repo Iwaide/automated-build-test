@@ -1,3 +1,3 @@
-FROM docker-samples/static-site
+FROM dockersamples/static-site
 ENV AUTHOR="siwaide"
 
